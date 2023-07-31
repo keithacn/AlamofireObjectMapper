@@ -27,8 +27,8 @@
 //  THE SOFTWARE.
 
 import Foundation
-import Alamofire
-import ObjectMapper
+import Alamofire11up
+import ObjectMapper11up
 
 extension DataRequest {
     

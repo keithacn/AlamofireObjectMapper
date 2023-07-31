@@ -1,0 +1,6 @@
+framework module Alamofire11up {
+  umbrella header "Alamofire11up-umbrella.h"
+
+  export *
+  module * { export * }
+}

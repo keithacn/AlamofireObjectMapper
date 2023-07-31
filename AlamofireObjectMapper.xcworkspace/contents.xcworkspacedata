@@ -5,9 +5,6 @@
       location = "group:AlamofireObjectMapper.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:Carthage/Checkouts/Alamofire/Alamofire.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:Carthage/Checkouts/ObjectMapper/ObjectMapper.xcodeproj">
+      location = "group:Pods/Pods.xcodeproj">
    </FileRef>
 </Workspace>
